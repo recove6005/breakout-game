@@ -7,8 +7,6 @@ const gameclearCommant = document.querySelector('.gameclear_commant');
 const scoreDiv = document.querySelector('.score');
 const floorDiv = document.querySelector('.floor');
 
-// 변경사항
-
 let animation; // 애니메이션 실행 함수(requestAnimationFrame)를 저장할 변수
 let score = 0; // 플레이어가 획득한 점수
 let floor = 1; // 게임 단계 (난이도 결정)
