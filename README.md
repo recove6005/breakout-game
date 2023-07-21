@@ -1,3 +1,3 @@
 # breakout-game
 
-canvas, requestAnimationFrame, local storage 활용
+canvas, requestAnimationFrame, local storage
