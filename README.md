@@ -1,3 +1,2 @@
 # breakout-game
-
-canvas, requestAnimationFrame, local storage
+###### 벽돌깨기 게임
